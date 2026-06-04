@@ -1,4 +1,4 @@
- Quote Generator App
+# Quote Generator App
 
 A beautiful, production-ready, mobile-friendly full-stack web application built using Python (Flask), SQLite3, vanilla HTML5, CSS3, and modern JavaScript (Async/Fetch API). The application lets users register, login, generate random quotes dynamically, manage a personal favorites list, and maintain a historical log of generated quotes.
 
